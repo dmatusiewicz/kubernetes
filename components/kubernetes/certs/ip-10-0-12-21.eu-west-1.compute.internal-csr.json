@@ -1,0 +1,16 @@
+{
+  "CN": "system:node:ip-10-0-12-21.eu-west-1.compute.internal",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "PL",
+      "L": "Gdansk",
+      "O": "system:nodes",
+      "OU": "Kubernetes The Hard Way",
+      "ST": "Pomorskie"
+    }
+  ]
+}
