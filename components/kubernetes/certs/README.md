@@ -1,1 +1,1 @@
-Don't get too excited :) Those certs are testing certs for internal eks cluster. 
+Don't get too excited :) Those certs are used for testing the internal eks cluster. 
